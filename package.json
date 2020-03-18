@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Parables/typescript-template.git"
+    "url": "git+ssh://git@github.com/Parables/timetable-generator.git"
   },
   "keywords": [
     "timetable-generator",
@@ -29,7 +29,7 @@
   "author": "Parables Boltnoel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Parables/typescript-template/issues"
+    "url": "https://github.com/Parables/timetable-generator/issues"
   },
-  "homepage": "https://github.com/Parables/typescript-template#readme"
+  "homepage": "https://github.com/Parables/timetable-generator#readme"
 }
