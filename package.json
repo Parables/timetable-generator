@@ -1,0 +1,35 @@
+{
+  "name": "timetablegenerator",
+  "version": "1.0.0",
+  "description": "This will generate a simple timetable for IDeL, Sekondi Center. ",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^13.9.1",
+    "parcel-bundler": "^1.12.4",
+    "tslint": "^5.0.0",
+    "tslint-config-airbnb": "^5.11.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "test": "We will add tests later",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Parables/typescript-template.git"
+  },
+  "keywords": [
+    "timetable-generator",
+    "nodejs",
+    "typescript",
+    "automatic-timetable-maker"
+  ],
+  "author": "Parables Boltnoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parables/typescript-template/issues"
+  },
+  "homepage": "https://github.com/Parables/typescript-template#readme"
+}
